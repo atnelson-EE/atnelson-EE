@@ -22,7 +22,8 @@ engineering requirements they implement.
 
 <!-- Demo video will be added here -->
 _Short Revit demo video coming soon -- showing rule-driven auto-circuiting
-and panel assignment running inside a live Revit model._
+and panel assignment running inside a live Revit model. It is functioning and can be
+proven as available now, although a more in-depth demo can also be provided on request._
 
 ## Deeper Foundation: ani-digital-twin-engine
 
