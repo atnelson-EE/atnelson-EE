@@ -33,8 +33,6 @@ Commercial electrical design still depends heavily on manual interpretation, spr
 Selected demos and architecture discussions are available on request.
 Some repositories remain private during active development.
 
-LinkedIn | atnelson1103@gmail.com
-
 
 
 [LinkedIn](https://www.linkedin.com/in/alex-nelson-ee/) | atnelson1103@gmail.com
