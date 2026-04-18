@@ -104,6 +104,6 @@ domain, not just a software demo.
 Selected demos, walkthroughs, and architecture discussions are available on request.
 Repositories are private during active development.
 
-[LinkedIn](https://www.linkedin.com/in/alex-nelson-ee/) | atnelson1103@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alex-nelson-ee/) | alex@ani-labs.org
 
 _Profile last updated: April 2026_
