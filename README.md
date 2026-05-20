@@ -9,7 +9,7 @@ of that work -- grounded in code requirements, not just professional habit.
 
 ## Lead Project: Ani-Revit2
 
-**Ani-Revit2** is a C#/.NET 8 Revit add-in that automates circuit assignment
+**Ani-Revit2** is a C#/.NET 10 Revit add-in that automates circuit assignment
 and panel-driven load grouping inside Revit 2025/2026. It applies structured
 engineering rules during the design process -- not as a post-design check, but
 inside the live model where the work happens.
